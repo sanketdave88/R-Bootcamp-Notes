@@ -1,7 +1,6 @@
-# R-Bootcamp-Notes
-Data Science and Machine Learning Bootcamp with R (Jose Portilla)
+# Data Science and Machine Learning Bootcamp with R (Jose Portilla)
 
-## Description
+### Description
 Data Scientist has been ranked the number one job on Glassdoor and the average salary of a data scientist is over $120,000 in the United States according to Indeed! Data Science is a rewarding career that allows you to solve some of the world's most interesting problems!
 
 This course is designed for both complete beginners with no programming experience or experienced developers looking to make the jump to Data Science!
