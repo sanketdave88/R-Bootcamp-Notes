@@ -1,9 +1,9 @@
-Notes from 
+# Notes about R programming
 
-# Data Science and Machine Learning Bootcamp with R (Jose Portilla)
+> **Source links:**
+> [https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r] (Data Science and Machine Learning Bootcamp with R)
+> [https://www.coursera.org/learn/r-programming] (R Programming by John Hopkins University)
 
-and
 
-# R Programming by John Hopkins Unversity
 
 
