@@ -1,8 +1,8 @@
-# Notes about R programming by [https://www.linkedin.com/in/sanketdave88/](Sanket Dave)
+# Notes about R programming by [Sanket Dave](https://www.linkedin.com/in/sanketdave88)
 
 > **Source links:**
-> (https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r) [Data Science and Machine Learning Bootcamp with R]
-> (https://www.coursera.org/learn/r-programming) [R Programming by John Hopkins University]
+> [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r) 
+> [R Programming by John Hopkins University](https://www.coursera.org/learn/r-programming) 
 
 
 
