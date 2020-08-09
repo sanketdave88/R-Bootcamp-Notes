@@ -20,6 +20,7 @@ rankall <- function(outcome, num = "best") {
     outcome <- "Hospital.30.Day.Death..Mortality..Rates.from.Pneumonia"
   }
   
+  hospital <- character(0)
   ## For each state, find the hospital of the given rank
   for (i in seq_along(validState)) {
     ## Return hospital name in that state with the given rank 30-day death rate
@@ -37,5 +38,6 @@ rankall <- function(outcome, num = "best") {
   }
   
   ## Return a data frame with the hospital names and the (abbreviated) state name
-  data.frame(state=validState,row.names=validState)
+  data.frame(hospital=hospital,state=validState,row.names=validState)
 }
+
